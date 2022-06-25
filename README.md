@@ -1,19 +1,24 @@
 ### Hi there 👋
 
-Find code for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests. I am mainly interested in spatial analysis
-
-- :octocat: I’m currently trying to get used to GitHub
-- :earth_africa:
-- :earth_asia:
-- :earth_americas:
+Find code for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests. I am mainly interested in spatial analysis :earth_africa: :earth_asia: :earth_americas:
 - :globe_with_meridians:
-- :panda_face:
+-  
 - :books: :pencil2:
+- 
+- 🔭 I’m currently working on adding projects to Github :octocat:
+- 🌱 I’m currently learning R 
+- 🤔 I’m looking for packages in Python
+- :books: :pencil2: I'm still studying
 - :round_pushpin:
-- ![alt text](https://www.vhv.rs/viewpic/iJJhbiw_transparent-arcgis-logo-png-arcgis-pro-logo-png)
+
+
 
 <!--
 **sahoyosso/sahoyosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 Here are some ideas to get you started:
 
