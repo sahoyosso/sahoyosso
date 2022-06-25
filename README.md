@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-Find code for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests. I am mainly interested in spatial analysis :earth_africa: :earth_asia: :earth_americas:
-- :globe_with_meridians:
--  
-- :books: :pencil2:
-- 
+Find code for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests. I am mainly interested in spatial analysis :earth_africa: :earth_asia: :earth_americas: :globe_with_meridians:
+
 - 🔭 I’m currently working on adding projects to Github :octocat:
 - 🌱 I’m currently learning R 
 - 🤔 I’m looking for packages in Python
