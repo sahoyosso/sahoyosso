@@ -6,7 +6,7 @@ Find code for geospatial projects, interactive maps and cool designs and any new
 - 🌱 I’m currently learning R 
 - 🤔 I’m looking for packages in Python
 - :books: :pencil2: I'm still studying
-- :round_pushpin:
+
 
 
 
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 :globe_with_meridians:
+- :round_pushpin:
 
 
 -->
