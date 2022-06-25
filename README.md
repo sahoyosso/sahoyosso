@@ -2,8 +2,14 @@
 
 Find code for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests. I am mainly interested in spatial analysis
 
-- 🌱 I’m currently learning :octocat:
-- 
+- :octocat: I’m currently trying to get used to GitHub
+- :earth_africa:
+- :earth_asia:
+- :earth_americas:
+- :globe_with_meridians:
+- :panda_face:
+- :books: :pencil2:
+- :round_pushpin:
 <!--
 **sahoyosso/sahoyosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
