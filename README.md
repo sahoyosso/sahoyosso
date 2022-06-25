@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Find code for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests. I am mainly interested in spatial analysis
 <!--
 **sahoyosso/sahoyosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
