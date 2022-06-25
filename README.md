@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find code in reprositories for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests. I am mainly interested in spatial analysis :earth_africa: :earth_asia: :earth_americas: 
+Find code in repositories for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests. I am mainly interested in spatial analysis :earth_africa: :earth_asia: :earth_americas: 
 
 - 🔭 I’m currently working on adding projects to Github :octocat:
 - 🌱 I’m currently learning R 
