@@ -10,7 +10,7 @@ Find code for geospatial projects, interactive maps and cool designs and any new
 - :panda_face:
 - :books: :pencil2:
 - :round_pushpin:
-- ![alt text](https://www.vhv.rs/viewpic/iJJhbiw_transparent-arcgis-logo-png-arcgis-pro-logo-png/)
+- ![alt text](https://www.vhv.rs/viewpic/iJJhbiw_transparent-arcgis-logo-png-arcgis-pro-logo-png)
 
 <!--
 **sahoyosso/sahoyosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
