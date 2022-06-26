@@ -4,7 +4,7 @@ Find code in repositories for geospatial projects, interactive maps and cool des
 
 - 🔭 I’m currently working on adding projects to Github :octocat:
 - 🌱 I’m currently learning R 
-- 🤔 I’m looking for packages in Python
+- 🤔 I’m trying to figure out to code drive time areas cathment and stuff
 - :books: :pencil2: I'm still studying
 
 
