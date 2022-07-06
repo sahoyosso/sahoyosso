@@ -12,7 +12,7 @@ Find code in repositories for geospatial projects, interactive maps and cool des
 
 Esri ArcPro and ArcMap     |  ArcGIS Online            | QGIS 
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://i2.wp.com/acolita.com/wp-content/uploads/2018/05/ArcMap-ArcGIS-Pro.jpg?fit=858%2C492&ssl=1" width="120" height="70"> | <img src="http://www.chrisbessert.org/technology/technology_files/arcgis_online_logo.jpg" width="75" height="70">| <img src="https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png" width="75" height="50">
+<img src="https://i2.wp.com/acolita.com/wp-content/uploads/2018/05/ArcMap-ArcGIS-Pro.jpg?fit=858%2C492&ssl=1" width="120" height="70"> | <img src="http://www.chrisbessert.org/technology/technology_files/arcgis_online_logo.jpg" width="55" height="60">| <img src="https://www.osgeo.org/wp-content/uploads/QGIS-Logo.png" width="75" height="50">
 
 <!--
 
