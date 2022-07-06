@@ -8,7 +8,7 @@ Find code in repositories for geospatial projects, interactive maps and cool des
 - :books: :pencil2: I'm still studying
 
 
-## GIS Software
+### GIS Software
 
 Esri ArcPro and ArcMap     |  ArcGIS Online            | QGIS 
 :-------------------------:|:-------------------------:|:-------------------------:
