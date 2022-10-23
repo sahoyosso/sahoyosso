@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-Find code in repositories for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests. I am mainly interested in spatial analysis
+Find code in repositories for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests
 
-- 🔭 I’m currently working on adding projects to Github :octocat:
-- 🌱 I’m currently learning R 
-- :books: :pencil2: still studying
 
 
 ### GIS Software
