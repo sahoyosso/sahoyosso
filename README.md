@@ -2,6 +2,7 @@
 
 Repositories for geospatial projects, interactive maps, tutorial material and my coding projects. 
 
+Grab anything under Tutorial work or labled 'for anyone'. The rest are personal files I work on. 
 
 
 
