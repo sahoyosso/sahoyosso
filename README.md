@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find code in repositories for geospatial projects, interactive maps and cool designs and any new side projects that spark my interests
+Repositories for geospatial projects, interactive maps, tutorial material and my coding projects. 
 
 
 
