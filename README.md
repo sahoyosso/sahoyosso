@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I currently do research on human migration, spatial analytics, and social impacts
-I build tools for spatial data science to support that work
+    I currently do research on human migration, spatial analytics, and social impacts
+    I build tools for spatial data science to support that work
+    
 Repositories for geospatial projects, interactive maps, and material for my own coding projects.
 :earth_africa: :earth_asia: :earth_americas: 
 
