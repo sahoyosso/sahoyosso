@@ -1,7 +1,7 @@
 ### Hi there 👋
-*I currently do research on human migration and spatial analytics
-*I’m currently working on how to apply geospatial methods to develop actionable insights 🔭 
-*I build tools for spatial data science to support that work
++ I currently do research on human migration and spatial analytics
++ I’m currently working on how to apply geospatial methods to develop actionable insights 🔭 
++ I build tools for spatial data science to support that work
     
 Repositories for geospatial projects, interactive maps, and material for my own coding projects.
 
