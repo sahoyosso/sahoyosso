@@ -4,7 +4,7 @@
     I build tools for spatial data science to support that work
     
 Repositories for geospatial projects, interactive maps, and material for my own coding projects.
-:earth_africa: :earth_asia: :earth_americas: 
+
 
 
 
